@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "OmniToolz - Your Ultimate All-in-One Toolkit",
+  "description": "",
+  "prompt": ""
+}
